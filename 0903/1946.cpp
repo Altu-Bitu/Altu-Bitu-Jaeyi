@@ -88,3 +88,6 @@ int main() {
         cout << result[i] << '\n';
 
 }
+
+
+
